@@ -1,5 +1,3 @@
-import os
-
 with open('./1 Dec/input.txt') as f:
   input_text = f.readlines()
 

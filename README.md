@@ -11,3 +11,9 @@ Go to the [Advent of Code](http://adventofcode.com/) website and sign up. You'll
 
 ## Why this repository?
 I'm using this repository to keep track of my solutions. I think it's also a good thing to share my solutions.
+
+
+### Installation
+```bash
+C:/Users/Kewan/AppData/Local/Microsoft/WindowsApps/python3.11.exe -m pip install requests
+```

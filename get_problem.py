@@ -136,6 +136,8 @@ def get_markdown(year, day):
     html_tags_to_markdown(article, i == 0)
     content += "".join([tag.string for tag in article.contents])
 
+  content += f'\n[Original link](https://adventofcode.com/{year}/day/{day})'
+
   return content
 
 
